@@ -33,8 +33,6 @@ const styles = StyleSheet.create({
     justifyContent:"space-between",
     paddingHorizontal:25,
     alignItems:"center",
-    borderTopWidth:1,
-    borderTopColor:"#575454",
     backgroundColor: "#3c7fe8",
   },
 });

@@ -5,17 +5,19 @@ import { Icon } from 'react-native-elements'
 
 export default class Stats extends Component {
   render(){
+    const screen = (this.props.screen)?"Calculate":"Search"
     return(
       <View style={styles.container}>
-              <View style={styles.stats}>
-                  <Text style={{color:"white", fontWeight:"bold"}}>Total: ${this.props.total}</Text>
+              <View style={[styles.cart, {justifyContent:"flex-start", paddingLeft:7}]}>
+                  <Icon name="account-balance-wallet" color="white" size={29}/>
+                  <Text style={styles.btn}>${this.props.total}</Text>
               </View>
               <View style={styles.tag}>
-                    <Text style={styles.h2}>WhatItCosts</Text>
+                    <Text style={styles.h2}>{screen}</Text>
               </View>
-              <TouchableOpacity style={styles.cart}>
+              <TouchableOpacity onPress={ ()=> { this.props.toggle() }} style={styles.cart}>
                   <Icon name="layers" color="white" size={29}/>
-                  <Text onPress={ this.props.calculate } style={styles.btn}>{this.props.items}</Text>
+                  <Text style={styles.btn}>{this.props.items}</Text>
               </TouchableOpacity>
       </View>
     )
@@ -32,22 +34,11 @@ const styles = StyleSheet.create({
     paddingHorizontal:15,
     paddingTop:10
   },
-  stats:{
-    flex:0.5,
-    backgroundColor:"#3c7fe8",
-    borderRadius: 5,
-    justifyContent:"center",
-    alignItems:"flex-start",
-
-    paddingLeft:10,
-    paddingTop:5,
-    paddingBottom:5,
-  },
   tag:{
     flex:1,
     marginHorizontal:5,
     height:40,
-    borderRadius:20,
+    borderRadius:10,
     backgroundColor:"black",
     justifyContent:"center",
     alignItems:"center"

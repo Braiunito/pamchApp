@@ -30,40 +30,45 @@ export default class App extends Component {
 
 
   search = (msj) =>{
-      this.setState({
-        text:msj
-      })
+      this.setState({text:msj})
       const results = this.state.data.filter(i => {return (i.Descripcion.toLowerCase().includes(this.state.text.toLowerCase()))})
-    this.setState({
+      this.setState({
         finded: results,
         match:  results.length
       })
     }
 
   update = (c, p) =>{
+    console.log("cantidad homie: ",p.cant);
     let total = 0
-    var a = parseInt(p.Precio.split("$ ")[1])
+    var a = p.Precio.replace(".", "")
+    a = parseInt(a.split("$ ")[1])
     const b = (c!="")?(a * parseInt(c)):(0)
     const t = []
 
-    this.state.finded.map(a=>{
+    this.state.cart.map(a=>{
       if (a.ID === p.ID) {
-        a = { ...a, sub:b }
+        a = { ...a, sub:b, cant:c}
       }
     total += a.sub
     t.push(a)
     })
 
     this.setState({tot:total})
-    this.setState({finded: t})
+    this.setState({cart: t})
   }
 
 
   del = (o) =>{
-    const t = this.state.finded.filter(a=>{
-      return(!(a.ID === o.ID))
+    const t = this.state.cart.filter(a=>{
+      if(a.ID === o.ID){
+        const update = (this.state.tot - a.sub)
+        this.setState({tot:update})
+        return false
+      }
+        return true
     })
-    this.setState({finded: t, cartL:t.length})
+    this.setState({cart: t, cartL:t.length})
   }
 
 
@@ -71,21 +76,18 @@ export default class App extends Component {
     var a = true
     const trigger = this.state.cart.map(cart=>{if (cart.ID === j.data.ID){a=false}})
     if (a) {
-      var b = j.data
-      Object.defineProperty(b, "sub", { value: 1, enumerable: true });
-      this.state.cart.push(b)
+      var addStates = j.data
+      Object.defineProperty(addStates, "sub", { value: 1, enumerable: true });
+      Object.defineProperty(addStates, "cant", { value: 0, enumerable: true });
+      this.state.cart.push(addStates)
       this.setState({
         cartL:this.state.cart.length
     })}
   }
 
 
-  calculate = () =>{
-    this.setState({
-      trig:true,
-      finded:this.state.cart,
-      match: this.state.cartL
-    })
+  toggle = () =>{
+    this.setState({trig:!this.state.trig})
   }
 
   render(){
@@ -95,15 +97,15 @@ export default class App extends Component {
 
         <View style={styles.header}>
                 <Searcher match={this.state.match} text={this.state.text} search={this.search} state={this}/>
-                <Header total={this.state.tot}
-                items={this.state.cartL} calculate={this.calculate} />
+                <Header total={this.state.tot} items={this.state.cartL} toggle={this.toggle} screen={this.state.trig} />
         </View>
 
         <View style={styles.body}>
                 <KeyboardAvoidingView style={styles.results}>
                         <SafeAreaView style={styles.containerSafe}>
                                 <ScrollView style={styles.scrollView}>
-                                        <Card data={this.state.finded} update={this.update}
+                                        <Card data={(!(this.state.trig))?this.state.finded:this.state.cart}
+                                        update={this.update}
                                         match={this.state.match} onPress={this.onPress}
                                         trig={this.state.trig} del={this.del}/>
                                 </ScrollView>

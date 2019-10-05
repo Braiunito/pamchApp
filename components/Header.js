@@ -7,7 +7,7 @@ export default class Header extends Component {
   render(){
     return(
       <View style={{flex:1}}>
-          <Stats total={this.props.total} items={this.props.items} calculate={this.props.calculate}/>
+          <Stats total={this.props.total} screen={this.props.screen} items={this.props.items} toggle={this.props.toggle}/>
       </View>
     )}
 }

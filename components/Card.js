@@ -24,22 +24,24 @@ export default class Card2 extends Component {
         <Card key={data.ID}>
         <Divider />
         <Divider />
-            <Card.Title title={data.Rubro} subtitle={data.Precio}
+            <Card.Title title={data.Precio} subtitle={data.Rubro}
             left={(props) => <Avatar.Icon {...props} icon="camera"/>}/>
             <Card.Content>
                   <Paragraph>{data.Descripcion}</Paragraph>
             </Card.Content>
+
+            <TextInput  mode="outlined" key={data.ID}
+                        placeholder="Cantidad"
+                        keyboardType="number-pad"
+                        style={{width:90, height:50, marginLeft:17}}
+                        value={this.props.data.cant}
+                        onChangeText={a => this.props.update(a, data)}>
+            </TextInput>
+
+            <Card.Title title={`Sub: $${data.sub}`} />
+
             <Card.Actions>
-                      <Text>Cantidad:</Text>
-                      <TextInput key={data.ID} keyboardType="number-pad" style={{borderColor: 'gray', height: 40, width:50 ,
-                      borderWidth:1, marginRight:10}} onChangeText={a => this.props.update(a, data)}/>
-            </Card.Actions>
-
-
-            <Text>SubTotal: ${data.sub} </Text>
-
-            <Card.Actions>
-                  <Button onPress={()=>{this.props.del(data)}}>Del</Button>
+                  <Button mode="contained" color="red" onPress={()=>{this.props.del(data)}}>Del</Button>
             </Card.Actions>
         <Divider />
         <Divider />
@@ -52,15 +54,14 @@ export default class Card2 extends Component {
         <Card key={data.ID}>
         <Divider />
         <Divider />
-            <Card.Title title={data.Rubro} subtitle={data.Precio}
+            <Card.Title title={data.Precio} subtitle={data.Rubro}
             left={(props) => <Avatar.Icon {...props} icon="folder"/>}/>
             <Card.Content>
               <Paragraph>{data.Descripcion}</Paragraph>
             </Card.Content>
             <Card.Cover source={{ uri: 'https://picsum.photos/700' }} />
             <Card.Actions>
-              <Button onPress={ () => { this.props.onPress({data})}}>Add</Button>
-              <Button>Modify</Button>
+              <Button mode="contained" color="#3c7fe8" onPress={ () => { this.props.onPress({data})}}>Add</Button>
             </Card.Actions>
         <Divider />
         <Divider />

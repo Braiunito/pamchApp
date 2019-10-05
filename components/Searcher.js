@@ -9,8 +9,8 @@ export default class Searcher extends Component {
       <View style={styles.container}>
           <Text style={styles.match}>{this.props.match}</Text>
           <TextInput placeholder="🔎" style={styles.bar} value={this.props.text} onChangeText={this.props.search}/>
-          <TouchableOpacity>
-              <Text style={styles.btn} onPress={()=>this.props.state.setState({text:"", match:0, finded:[], trig:false})}>X</Text>
+          <TouchableOpacity onPress={()=>this.props.state.setState({text:"", match:0, finded:[], trig:false})}>
+              <Text style={styles.btn}>X</Text>
           </TouchableOpacity>
       </View>
     )}
