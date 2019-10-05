@@ -1,0 +1,2162 @@
+[
+  {
+    "ID": 1,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CIMIENTOS CAVADO (0,40x0,6) POR 1 METRO LINEAL",
+    "Precio": "$ 338,35"
+  },
+  {
+    "ID": 2,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CIMIENTOS LLENADO (0,40x0,6) POR 1 METRO LINEAL (EN ESTRATOS DE PIEDRA BOLA, RIPIO BRUTO)",
+    "Precio": "$ 441,32"
+  },
+  {
+    "ID": 3,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CIMIENTOS CAVADO (0,30x0,50) POR 1 METRO LINEAL",
+    "Precio": "$ 211,47"
+  },
+  {
+    "ID": 4,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CIMIENTOS LLENADO (0,30x0,50) POR 1 METRO LINEAL (EN ESTRATOS DE PIEDRA BOLA, RIPIO BRUTO)",
+    "Precio": "$ 275,83"
+  },
+  {
+    "ID": 5,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CIMIENTOS LLENADO X 1 M3 (EN ESTRATOS DE PIEDRA BOLA, RIPIO BRUTO)",
+    "Precio": "$ 1.838,85"
+  },
+  {
+    "ID": 6,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "H� DE LIMPIEZA H8 X 1 M3 (200KG DE CEMENTO PORTLAND X M3)",
+    "Precio": "$ 1.348,49"
+  },
+  {
+    "ID": 7,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BASE O CIM CAVADO (GRANDES OBRAS) GALPONES MEDIANERAS CIERRE COMPLETO DE TERRRENO BARRIOS ETC POR CANTIDAD EL M3",
+    "Precio": "$ 1.225,90"
+  },
+  {
+    "ID": 8,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CIMIENT CAVADO (GRANDES OBRAS) GALPONES MEDIANER CIERRE COMPL DE TERRR EN BARRIOS ETC EJ.CIMIENT (0,4 X 0,6 X 1ML)",
+    "Precio": "$ 294,22"
+  },
+  {
+    "ID": 9,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CIMIENTOS LLENADO ESTRATOS CON PIEDERA BOLA, RIPIO BRUTO (GRANDES OBRAS) GALPONES BARRIOS ETC POR CANTIDAD EL M3",
+    "Precio": "$ 1.288,50"
+  },
+  {
+    "ID": 10,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CIMIENTOS LLENADO (GRANDES OBRAS) GALPONES CIERRE COMPLETO EN BARRIOS ETC POR CANTIDAD EJ CIMIENT (0,4X0,6X1ML)",
+    "Precio": "$ 309,24"
+  },
+  {
+    "ID": 11,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BASES ARMADO (GANDES OBRAS) X CANTIDAD 0,8X0,8 (PARRILLA Y ATADO PIE ARMADURA DE COLUMNA APLOMADA EN EXCAVACION)",
+    "Precio": "$ 490,36"
+  },
+  {
+    "ID": 12,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BASES LLENADO M3 (GRANDES OBRAS)",
+    "Precio": "$ 1.100,70"
+  },
+  {
+    "ID": 13,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "RELLENO Y COMPACTACION SOBRE BASE X M2 (GRANDES OBRAS)",
+    "Precio": "$ 182,58"
+  },
+  {
+    "ID": 14,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "RELLENO Y COMPACTACION SOBRE BASE X M2",
+    "Precio": "$ 208,66"
+  },
+  {
+    "ID": 15,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "CA�EROS EN H� PARA I ELECTRICA O SANITARIAS X ML (BASE EN H� LIVIANO PARA CA�ERIAS ELECTRICAS O SANITARIAS 5CM ESPESOR)",
+    "Precio": "$ 30,34"
+  },
+  {
+    "ID": 16,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "REFUERZ O SOPORTES H� A� X M3, H 18 (325 KG CEM PORTL APROX X M3) TERMINAC EN PILARES O MAMPOST PARA DISTRIBUC DE CARGAS",
+    "Precio": "$ 32.722,35"
+  },
+  {
+    "ID": 17,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BALDOZONES TAPAS DE POZOS CAMARAS U OBRAS DE ARTE EN H� A� IN SITU DESDE 4CM HASTA 6 CM ESPESOR X M2",
+    "Precio": "$ 1.669,31"
+  },
+  {
+    "ID": 18,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BASE CAVADO 0,80x0,80x1 m",
+    "Precio": "$ 902,26"
+  },
+  {
+    "ID": 19,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BASES EXCAVACION X M3",
+    "Precio": "$ 1.409,79"
+  },
+  {
+    "ID": 20,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BASE H� LIMPIEZA 5 cm H� LIVIANO 180 Kg/m3 + COLOC Y CENTRADO ARMADURA DE BASE X UNIDAD",
+    "Precio": "$ 39,70"
+  },
+  {
+    "ID": 21,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BASE ARMADO Y LLENADO H� (0,8X0,8X0,6)",
+    "Precio": "$ 1.161,84"
+  },
+  {
+    "ID": 22,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "BASE ARMADO Y LLENADO H� X M3",
+    "Precio": "$ 3.025,63"
+  },
+  {
+    "ID": 23,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUMNA x M3 ENCOF DENTRO MAMPOST / M LINEAL (CONSTR EN P BAJA HASTA 2,7mt DE ALT NO H� VISTO)",
+    "Precio": "$ 15.948,36"
+  },
+  {
+    "ID": 24,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUMNA 0,15X0,15Xml ENCOF DENTRO MAMPOST / M LINEAL (CONSTR EN P BAJA HASTA 2,7mt DE ALT NO H� VISTO)",
+    "Precio": "$ 637,93"
+  },
+  {
+    "ID": 25,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUMNA 0,15X0,15Xml ENCOF DENTRO MAMPOST / M LINEAL (CONSTR EN P ALTA A MAS DE 2,7mt DE ALT NO H� VISTO)",
+    "Precio": "$ 829,31"
+  },
+  {
+    "ID": 26,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUMNA 0,20X0,20Xml UNICO ENCOF INDEPENDIENTE /MLINEAL (CONSTR EN P BAJA 2,7mt DE ALT NO H� VISTO)",
+    "Precio": "$ 711,97"
+  },
+  {
+    "ID": 27,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUMNA 0,20X0,20Xml UNICO ENCOF INDEPENDIENTE /MLINEAL (CONSTR EN P ALTA + 2,7mt DE ALT NO H� VISTO)",
+    "Precio": "$ 925,56"
+  },
+  {
+    "ID": 28,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUMNA PRECIO X M3 ENCOFRADO INDEPENDIENTE H� NO VISTO HASTA 2,7 M DE ALTURA (H18 325KG/M3)",
+    "Precio": "$ 17.799,32"
+  },
+  {
+    "ID": 29,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUMNA ENCADENADO 0,15X0,15 X m LINEAL HASTA 2,7M DE ALTURA",
+    "Precio": "$ 375,60"
+  },
+  {
+    "ID": 30,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "ENCADENADO HORIZ INFERIOR x mt. LINEAL (0,15X0,15)",
+    "Precio": "$ 375,60"
+  },
+  {
+    "ID": 31,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "ENCADENADO HORIZ INFERIOR x mt. LINEAL (0,15X0,30)",
+    "Precio": "$ 751,19"
+  },
+  {
+    "ID": 32,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "ENCADENADO HORIZ SUPERIOR x mt. LINEAL (0,15X0,15) SUPERIOR A 2,7 HASTA 5M DE ALTURA",
+    "Precio": "$ 413,16"
+  },
+  {
+    "ID": 33,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "ENCADENADO HORIZ SUPERIOR x mt. LINEAL (0,15X0,20) SUPERIOR A 2,7M HASTA 5 M DE ALTURA",
+    "Precio": "$ 550,87"
+  },
+  {
+    "ID": 34,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "ENCADENADO PRECIO X M3 (ADICIONAR UN 10% CUANDO SUPERE LOS 2,7M HASTA 5M)",
+    "Precio": "$ 16.693,14"
+  },
+  {
+    "ID": 35,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "ENCADENADO HORIZ INF. X M3 (GRANDES OBRAS)",
+    "Precio": "$ 10.433,21"
+  },
+  {
+    "ID": 36,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "ENCADENADO HORIZ SUP. X M3 HASTA 3 M ALTURA (GRANDES OBRAS)",
+    "Precio": "$ 11.476,54"
+  },
+  {
+    "ID": 37,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "VIGA 20x30x100 x mt. LINEAL (NO H� VISTO)",
+    "Precio": "$ 1.202,96"
+  },
+  {
+    "ID": 38,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "VIGA PRECIO X M3 ADICIONAR 10% CUANDO SUPERE LOS 3M HASTA 5M",
+    "Precio": "$ 20.049,37"
+  },
+  {
+    "ID": 39,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "VIGA 20x20x100 x mt. LINEAL (NO H� VISTO)",
+    "Precio": "$ 801,97"
+  },
+  {
+    "ID": 40,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUMNA ARRIOSTRAM (ENCAD VERT) 15X15 MAS DE 3M DE ALTURA",
+    "Precio": "$ 375,60"
+  },
+  {
+    "ID": 41,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "LOSA VIGUETAS BOVEDILLAS 9 -12 ARMADO Y LLENADO. SUPERFICIE MAYOR A 15 M2",
+    "Precio": "$ 938,99"
+  },
+  {
+    "ID": 42,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "LOSA VIGUETAS BOVEDILLAS 17 ARMADO Y LLENADO. SUPERFICIE MAYOR A 15 M2",
+    "Precio": "$ 1.043,32"
+  },
+  {
+    "ID": 43,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "LOSA VIGUETAS BOVEDILLAS 9 -12 ARMADO Y LLENADO. SUPERFICIE MENOR A 15 M2",
+    "Precio": "$ 1.121,57"
+  },
+  {
+    "ID": 44,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "LOSA VIGUETAS BOVEDILLAS 17 ARMADO Y LLENADO. SUPERFICIE MENOR A 15 M2",
+    "Precio": "$ 1.225,90"
+  },
+  {
+    "ID": 45,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUM H� TERMINACIONES REVOQUE RUSTICO + ENLUCIDO MANDILADO HASTA 0,3M X LADO X M LINEAL",
+    "Precio": "$ 166,93"
+  },
+  {
+    "ID": 46,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLUM H� TERMINACIONES REVOQUE RUSTICO FRATAZADO HASTA 0,3M X LADO X M LINEAL",
+    "Precio": "$ 68,86"
+  },
+  {
+    "ID": 47,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "VIG H� TERMINAC REVOQUE RUSTICO FRATAZADO HASTA 0,3M X LADO X M LINEAL",
+    "Precio": "$ 67,82"
+  },
+  {
+    "ID": 48,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "VIG H� TERMINAC REVOQUE RUSTICO + ENLUCIDO MANDILADO HASTA 0,3M X LADO X M LINEAL",
+    "Precio": "$ 151,28"
+  },
+  {
+    "ID": 49,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLOC DE INSERTOS METAL EN VIGAS O COL EN SECO PERFORAC + ANCLAJE MECANIC O QUIMICO X UNID HASTA � 12",
+    "Precio": "$ 172,15"
+  },
+  {
+    "ID": 50,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLOC DE INSERTOS METALIC EN VIGAS O COL EN HUMEDO (PREVIO LLENADO ELEM ESTRUCTURAL) X UNID HASTA � 16",
+    "Precio": "$ 61,56"
+  },
+  {
+    "ID": 51,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLOC DE INSERTOS PLACA METALICA EN VIG O COL EN HUMEDO X CM2 X UNID",
+    "Precio": "$ 0,63"
+  },
+  {
+    "ID": 52,
+    "Rubro": "ESTRUCT. H�",
+    "Descripcion": "COLOC DE INSERTOS PLACA METALICA EN VIG O COL EN SECO +ANCLAJE MECAN O QUIMICO X CM2 X UNID",
+    "Precio": "$ 2,61"
+  },
+  {
+    "ID": 53,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "REJAS X M2 M DE OBRA (PREC SE ESTIMA ENTRE EL 90 A 100% DEL COSTO TOT DE LOS MAT NECESARIOS PARA SU CONSTRUCC)",
+    "Precio": "$ 2.378,77"
+  },
+  {
+    "ID": 54,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "REJAS X M2 M DE OBRA COLOCACION EN VENTANAS (AMURADO) HASTA 2,5 M DE ALTURA (P BAJA)",
+    "Precio": "$ 625,99"
+  },
+  {
+    "ID": 55,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "REJAS X M2 M DE OBRA COLOCACION EN VENTANAS (AMURADO) HASTA 6,5 M TRABAJO EN ALTURA",
+    "Precio": "$ 1.752,78"
+  },
+  {
+    "ID": 56,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "REPARACION TRABAJO MINIMO SOLDADURA (TRABAJO UNICO TRANSLADO DE EQUIPO Y OPERARIO PARA ESE TRABAJO ESPECIFICO)",
+    "Precio": "$ 845,09"
+  },
+  {
+    "ID": 57,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "SOP, PROTECC, COBERTORES ETC TRAB DETALLES HERRERIA CHICOS, M OBRA S/ COLOCACION (PRECIO APROX X M2)",
+    "Precio": "$ 1.085,05"
+  },
+  {
+    "ID": 58,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "COLOC VIGAS ESTR. CONSTRUCC. EN SECO POR m. lineal muro de 0,15 hasta 4m luz x 1 PERF MET \"I\"(IPN, UPN), VIGUETAS, VIG PREMOLD,)",
+    "Precio": "$ 1.199,82"
+  },
+  {
+    "ID": 59,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "COLOC VIGAS ESTR. CONSTRUCC. EN SECO POR m. lineal muro de 0,30 hasta 4m luz hasta 2 PERF MET \"I\"(IPN,UPN, VIGUETAS, VIG PREM.)",
+    "Precio": "$ 1.460,65"
+  },
+  {
+    "ID": 60,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "ARMADO Y COLOCACION DE CORREAS HASTA 4 M ALTURA X M2 INCLUYE AMURADO ANTIOXIDO Y SOLDADURAS NECES X M2",
+    "Precio": "$ 391,25"
+  },
+  {
+    "ID": 61,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "COLOCACION Y ATORNILLADO DE CHAPAS SIN APRETADA LATERAL XM2",
+    "Precio": "$ 286,91"
+  },
+  {
+    "ID": 62,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "APRETADA MATERIAL 0,15X 0,25 CM DE ALTO COLOC MAMP. CON TERMINACION RUSTICO FRATAZADO Y BABETA MATERIAL X ML",
+    "Precio": "$ 521,66"
+  },
+  {
+    "ID": 63,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "CENEFA ZINGUERIA DE TERMINAC PERIMETRAL SOBRE CUBIERTA X ML",
+    "Precio": "$ 365,16"
+  },
+  {
+    "ID": 64,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "CENEFA ZINGUERIA DE TERMINACION PERIMETRAL REMATE Y CIERRE LATERAL DE TERMINACION HASTA CIELORRASO X ML",
+    "Precio": "$ 532,09"
+  },
+  {
+    "ID": 65,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "COLOC DE CANALETA COM�N INTERIOR O LIMAHOYA x ML",
+    "Precio": "$ 579,04"
+  },
+  {
+    "ID": 66,
+    "Rubro": "ESTRUCT. MET.",
+    "Descripcion": "COLOC DE CANALETA COM�N EXTERIOR CON GRAMPAS x ML",
+    "Precio": "$ 289,63"
+  },
+  {
+    "ID": 67,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,10 Y 0,15 HASTA 2,20 M. DE ALTURA PRECIO X METRO CUADRADO",
+    "Precio": "$ 281,70"
+  },
+  {
+    "ID": 68,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,10 Y 0,15 MAS DE 2,3 M HASTA 3,5 M DE ALTURA PRECIO X METRO CUADRADO",
+    "Precio": "$ 333,86"
+  },
+  {
+    "ID": 69,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,20 Y 0,30 HASTA 2,2 M DE ALTURA PRECIO X METRO CUADRADO",
+    "Precio": "$ 584,26"
+  },
+  {
+    "ID": 70,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,20 Y 0,30 MAS DE 2,3 M HASTA 3,5 M DE ALTURA PRECIO X METRO CUADRADO",
+    "Precio": "$ 766,84"
+  },
+  {
+    "ID": 71,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,15 LADRILLO VISTO HASTA 2M S/ EMBOQUILLADO PRECIO X METRO CUADRADO",
+    "Precio": "$ 427,76"
+  },
+  {
+    "ID": 72,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,15 LADRILLO VISTO MAS 2M HASTA 3,5 M DE ALTURA PRECIO X METRO CUADRADO S/EMBOQUILLADO",
+    "Precio": "$ 730,33"
+  },
+  {
+    "ID": 73,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,30 LADRILLO VISTO HASTA 2mts. S/ EMBOQUILLADO PRECIO X METRO CUADRADO",
+    "Precio": "$ 620,78"
+  },
+  {
+    "ID": 74,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,30 LADRILLO VISTO ALTURA MAS DE 2mts. HASTA 3,5M S/ EMBOQUILLADO PRECIO X METRO CUADRADO",
+    "Precio": "$ 912,91"
+  },
+  {
+    "ID": 75,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA LADRILLOS HUECOS 0,12 (12X18X33) PRECIO X METRO CUADRADO",
+    "Precio": "$ 266,05"
+  },
+  {
+    "ID": 76,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA LADRILLOS HUECOS 0,18 (18X18X33) PRECIO X METRO CUADRADO",
+    "Precio": "$ 266,05"
+  },
+  {
+    "ID": 77,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,12 LADRILLOS HUECOS (12X18X33) MAS DE 2,2 mts. De Altura PRECIO X METRO CUADRADO",
+    "Precio": "$ 333,86"
+  },
+  {
+    "ID": 78,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA 0,18 LADRILLOS HUECOS (18X18X33) MAS DE 2,2 mts. De Altura PRECIO X METRO CUADRADO",
+    "Precio": "$ 333,86"
+  },
+  {
+    "ID": 79,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA BLOQUES INDUSTRIALES (20X20X40) HASTA 2,2mts. PRECIO X METRO CUADRADO",
+    "Precio": "$ 443,41"
+  },
+  {
+    "ID": 80,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MAMPOSTERIA BLOQUES INDUSTRIALES(20X20X40) MAS DE 2,2mts. HASTA 3,5M PRECIO X METRO CUADRADO",
+    "Precio": "$ 521,66"
+  },
+  {
+    "ID": 81,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA HORIZ (ALISADO + PINTURA + PLASTICO 200 MICRONES) x m2",
+    "Precio": "$ 719,70"
+  },
+  {
+    "ID": 82,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA HORIZ (ALISADO + PINTURA + PLASTICO 200 MICRONES) MURO 0,15m",
+    "Precio": "$ 107,95"
+  },
+  {
+    "ID": 83,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA HORIZ (ALISADO + PINTURA + PLASTICO 200 MICRONES) MURO 0,30m",
+    "Precio": "$ 215,91"
+  },
+  {
+    "ID": 84,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA VERT x m2",
+    "Precio": "$ 547,74"
+  },
+  {
+    "ID": 85,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA HORIZ x m2 (ALISADO MAS PINTURA) GRANDES OBRAS",
+    "Precio": "$ 409,09"
+  },
+  {
+    "ID": 86,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA HORIZ MURO 0,20 X MLINEAL (ALISADO MAS PINTURA) GRANDES OBRAS",
+    "Precio": "$ 81,82"
+  },
+  {
+    "ID": 87,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA INYECCION MURO 0,15 X ML",
+    "Precio": "$ 730,33"
+  },
+  {
+    "ID": 88,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA INYECCION MURO 0,30 X ML",
+    "Precio": "$ 761,62"
+  },
+  {
+    "ID": 89,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA RECONSTRUCCION MURO DE 0,15CM ESP (INCLUYE CALADO DE MURO, REARMADO DE CAPA, SIN COLOC DE Z�CALOS,)",
+    "Precio": "$ 1.184,17"
+  },
+  {
+    "ID": 90,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CAPA AISLADORA RECONSTRUCCION MURO DE 0,30CM ESP (INCLUYE CALADO DE MURO, REARMADO DE CAPA, SIN COLOC DE Z�CALOS,)",
+    "Precio": "$ 1.319,80"
+  },
+  {
+    "ID": 91,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "EMBOQUILLADO X M2",
+    "Precio": "$ 162,62"
+  },
+  {
+    "ID": 92,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "EMBOQUILLADO A MAS DE DE 2M DE ALTURA",
+    "Precio": "$ 205,11"
+  },
+  {
+    "ID": 93,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "PILAR LADRILLO VISTO EMBOQUILLADO DE 0,30x0,30x1m LINEAL",
+    "Precio": "$ 1.025,56"
+  },
+  {
+    "ID": 94,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "PILAR LADRILLO VISTO 0,45x0,45x1mLINEAL MAS ARMADO, LLENADO DE COLUMNA HUECO CENTRAL Y EMBOQUILLADO",
+    "Precio": "$ 1.786,45"
+  },
+  {
+    "ID": 95,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "CASTIGADO CEMENTICIO X M2",
+    "Precio": "$ 114,77"
+  },
+  {
+    "ID": 96,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTICO EXTERIOR HASTA 2,5 M ALTURA",
+    "Precio": "$ 260,83"
+  },
+  {
+    "ID": 97,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTICO EXTERIOR EN ALTURA MAS DE 3 M HASTA 7 M ALTURA",
+    "Precio": "$ 344,30"
+  },
+  {
+    "ID": 98,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTICO FRATAZADO INCLUYE CASTIGADO CEMENTICIO CON IMPERMEAB EXTERIOR HASTA 2,7 M ALTURA",
+    "Precio": "$ 375,60"
+  },
+  {
+    "ID": 99,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTICO FRATAZADO INCLUYE CASTIGADO CEMENTICIO CON IMPERMEAB EXTERIOR EN ALTURA (MAS DE 3 M Y HASTA 7M DE ALTURA)",
+    "Precio": "$ 459,06"
+  },
+  {
+    "ID": 100,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTICO INTERIOR O EXTERIOR GRANDES SUP X M2",
+    "Precio": "$ 219,10"
+  },
+  {
+    "ID": 101,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTICO INTERIOR HABITACIONES X M2",
+    "Precio": "$ 260,83"
+  },
+  {
+    "ID": 102,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTICO JASPEADO CON CUCHARA SIN BASE DE REVOQUE",
+    "Precio": "$ 239,96"
+  },
+  {
+    "ID": 103,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTCO JASPEADO CON SALPICADORA EN BASE DE JAHARRO NIVELADO EN ALTURA (IGGAM SOBRE REVOQUE GRUESO APLOMADO)",
+    "Precio": "$ 615,56"
+  },
+  {
+    "ID": 104,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "RUSTCO JASPEADO CON SALPICADORA EN BASE DE JAHARRO NIVELADO (IGGAM SOBRE REVOQUE GRUESO APLOMADO)",
+    "Precio": "$ 532,09"
+  },
+  {
+    "ID": 105,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "FINO INTERIOR X M2",
+    "Precio": "$ 163,95"
+  },
+  {
+    "ID": 106,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "FINO EXTERIOR X M2",
+    "Precio": "$ 173,75"
+  },
+  {
+    "ID": 107,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "REVEST MUROS (COLOC DE CERAMICOS INT) SIN JAHARRO HASTA 2,5 M DE ALTURA",
+    "Precio": "$ 266,05"
+  },
+  {
+    "ID": 108,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "REVEST MUROS (COLOC DE CERAMICOS) EN ALTURA SIN JAHARRO EXT DE 2,5 HASTA 4 MTS DE ALTURA (FRENT EDIF PATIOS AL EXT ETC.)",
+    "Precio": "$ 573,83"
+  },
+  {
+    "ID": 109,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "REVEST MUROS (COLOC DE CERAMICOS) EN ALTURA SIN JAHARRO EXT SUP A 4 MTS DE ALTURA (FRENT EDIF PATIOS AL EXT ETC.)",
+    "Precio": "$ 745,97"
+  },
+  {
+    "ID": 110,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "REVEST MUROS (COLOC DE PORCELANATO) EN INTERIOR (COCINA BA�O ETC.)",
+    "Precio": "$ 563,39"
+  },
+  {
+    "ID": 111,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "REVEST MUROS (COLOC DE CERAMICOS) EN ALTURA MOCHETAS JAMBAS ETC X MLINEAL",
+    "Precio": "$ 375,60"
+  },
+  {
+    "ID": 112,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "MOCHETAS, GUARDAPOLVOS PEQUE�OS HASTA 7X10CM LISOS SIN ADORNOS X M LINEAL",
+    "Precio": "$ 313,00"
+  },
+  {
+    "ID": 113,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "BABETAS (MATERIAL) TRIANGULAR EN ALTURA TERMINACIONES ESQUINEROS ANGULOS TECHOS TAPIAS ETC. X ML",
+    "Precio": "$ 218,05"
+  },
+  {
+    "ID": 114,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK REVEST MEDIO FORRO PLACAS 12,5 PERFILERIA 70mm TERMINADO (TABIQUE O CIELORRASO) SIN AISLACION TERM X M2",
+    "Precio": "$ 396,99"
+  },
+  {
+    "ID": 115,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK REVEST MEDIO FORRO (TABIQUE O CIELORASO) PLACAS SOLA 12,5 X M2",
+    "Precio": "$ 175,34"
+  },
+  {
+    "ID": 116,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK REVEST MEDIO FORRO (TABIQUE O CIELORRASO )PLACAS SOLA 9,5 X M2",
+    "Precio": "$ 155,49"
+  },
+  {
+    "ID": 117,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK PERFILERIA SOLA 35mm (TABIQUE O CIELORRASO) SIN AISLACION TERM X M2",
+    "Precio": "$ 138,95"
+  },
+  {
+    "ID": 118,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK COLOC CINTA (TABIQUE O CIELORRASO) X M2",
+    "Precio": "$ 82,71"
+  },
+  {
+    "ID": 119,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK REVEST MEDIO FORRO PLACAS 9,5 PERFILERIA 35mm TERMINADO (TABIQUE O CIELORRASO) SIN AISLACION TERM X M2",
+    "Precio": "$ 377,14"
+  },
+  {
+    "ID": 120,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK PERFILERIA SOLA 70mm (TABIQUE O CIELORRASO) SIN AISLACION TERM X M2",
+    "Precio": "$ 138,95"
+  },
+  {
+    "ID": 121,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK PERFIL OMEGA FIJACION CON TACOS EN MURO X M2",
+    "Precio": "$ 130,42"
+  },
+  {
+    "ID": 122,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK AISLACION TERM EN TABIQUE O CIELORRASO ENTRETEJIDO DE ALAMBRE GALVANIZADO X M2",
+    "Precio": "$ 76,09"
+  },
+  {
+    "ID": 123,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK TABIQUE FORRADO PLACAS 12,5 PERFILERIA 70mm SIN AISLACION TERM O ACUSTICA X M2",
+    "Precio": "$ 453,84"
+  },
+  {
+    "ID": 124,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK TABIQUE FORRADO PLACAS 9,5 PERFILERIA 35mm SIN AISLACION TERM O ACUSTICA X M2",
+    "Precio": "$ 417,33"
+  },
+  {
+    "ID": 125,
+    "Rubro": "PARAMENTO",
+    "Descripcion": "DURLOCK CAJON DOS CARAS PLACAS 9,5 PERFILERIA 35 - 70 mm X M3",
+    "Precio": "$ 6.781,59"
+  },
+  {
+    "ID": 126,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "PICAR REVOQUE XM2",
+    "Precio": "$ 208,66"
+  },
+  {
+    "ID": 127,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "CALADO DE MURO X M3",
+    "Precio": "$ 15.388,99"
+  },
+  {
+    "ID": 128,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "CALADO DE MURO X ML HASTA 0,15X0,05 PARA INSTALACIONES, AMURADOS, ETC.",
+    "Precio": "$ 125,20"
+  },
+  {
+    "ID": 129,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "CALADO DE MURO X ML HASTA 0,05X0,05 PARA INSTALACIONES, AMURADOS CHAPAS TECHO, ETC.",
+    "Precio": "$ 62,60"
+  },
+  {
+    "ID": 130,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "DEMOLER MURO 0,15 X M2",
+    "Precio": "$ 453,15"
+  },
+  {
+    "ID": 131,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "DEMOLER MURO 0,30 XM2",
+    "Precio": "$ 681,93"
+  },
+  {
+    "ID": 132,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "DEMOLER CIELORRASOS HASTA 2,7 ALTURA YESO DURLOCK ETC SIN RETIRO DE ESCOMBROS FUERA DE OBRA X M2",
+    "Precio": "$ 182,58"
+  },
+  {
+    "ID": 133,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "DEMOL CIELORR MAS DE 2,7 ALT(TRAB C/ ANDAM O ESCAL. LARG) YESO, DURLOCK ETC SIN RET DE ESCOMB FUERA DE OBRA X M2",
+    "Precio": "$ 234,75"
+  },
+  {
+    "ID": 134,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "DEMOL CIELORR MAS DE 2,7 ALT(TRAB C/ ANDAM O ESCAL. LARG) TELGOPOR SIN RET DE ESCOMB FUERA DE OBRA X M2",
+    "Precio": "$ 74,08"
+  },
+  {
+    "ID": 135,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "DEMOL TABIQUE 0,10 ESPESOR DURLOCK HASTA 2,7 ALT SIN RET DE ESCOMB FUERA DE OBRA",
+    "Precio": "$ 213,88"
+  },
+  {
+    "ID": 136,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "ROTURA DE CONTRAPISO (HASTA 7 CM ESPESOR) PRECIO X m2",
+    "Precio": "$ 157,75"
+  },
+  {
+    "ID": 137,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "ROTURA Y LIMPIEZA DE PISO EXISTENTE (SOLO REVESTIMIENTO, SIN CONTRAPISO)",
+    "Precio": "$ 93,90"
+  },
+  {
+    "ID": 138,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "RETIRO DE CUBIERTAS DE CHAPAS DESARMADO, EN ESTRUCTURA METALICA, ATORNILLADAS CUBIERTAS HASTA 5M ALTURA X M2",
+    "Precio": "$ 234,75"
+  },
+  {
+    "ID": 139,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "RETIRO DE CUBIERTAS DE CHAPAS DESARMADO, EN ESTRUCTURA MADERA, CALVADAS CUBIERTAS HASTA 5M ALTURA X M2",
+    "Precio": "$ 250,40"
+  },
+  {
+    "ID": 140,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "RETIRO DE REJAS EN VENTANAS X METRO CUADRADO DE SUP EN PLANTA BAJA X UNID SIN TERMINAC ALBA�ILERIA",
+    "Precio": "$ 114,77"
+  },
+  {
+    "ID": 141,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "RETIRO DE REJAS EN VENTANAS X METRO CUADRADO DE SUP Y PLANTA ALTA O ALTURA HASTA 5M X UNID",
+    "Precio": "$ 323,43"
+  },
+  {
+    "ID": 142,
+    "Rubro": "DEMOLICION",
+    "Descripcion": "PASES EN CIMIENTOS PARA CA�ERIAS (0,40 DE ESPESOR)",
+    "Precio": "$ 328,65"
+  },
+  {
+    "ID": 143,
+    "Rubro": "TAREAS AUX MOV SUELO",
+    "Descripcion": "LIMPIEZA DE TERRENO M2",
+    "Precio": "$ 13,04"
+  },
+  {
+    "ID": 144,
+    "Rubro": "TAREAS AUX MOV SUELO",
+    "Descripcion": "DESMONTE ( TERMINO TECNICO REFERIDO A SACAR TIERRA EN VOLUMEN PARA NIVELAR) X M3",
+    "Precio": "$ 1.309,37"
+  },
+  {
+    "ID": 145,
+    "Rubro": "TAREAS AUX MOV SUELO",
+    "Descripcion": "RELLENOS Y COMPACTACION TIERRA ESCOMBRO, BASE ESTABILIZADA X M3",
+    "Precio": "$ 4.616,70"
+  },
+  {
+    "ID": 146,
+    "Rubro": "TAREAS AUX MOV SUELO",
+    "Descripcion": "LIMPIEZA DE OBRA CARGA CONTENEDOR X UNIDAD",
+    "Precio": "$ 1.836,25"
+  },
+  {
+    "ID": 147,
+    "Rubro": "TAREAS AUX MOV SUELO",
+    "Descripcion": "EXCAV PARA SUBMURACION EN CIMIENTOS + TABLESTACADO REFUEROS ETC X M3",
+    "Precio": "$ 3.390,79"
+  },
+  {
+    "ID": 148,
+    "Rubro": "TAREAS AUX MOV SUELO",
+    "Descripcion": "EXCAV EN TIERRA (PARA CIM, COLOC DE CA�ER, MUERTOS DE ANCLAJE) EXCAV EN GRAL HASTA 1,5M DE PROFUND X M3",
+    "Precio": "$ 1.409,79"
+  },
+  {
+    "ID": 149,
+    "Rubro": "TAREAS AUX MOV SUELO",
+    "Descripcion": "ACARREO DE ARIDOS, ARENA RIPIO ETC. X M3 Y MAS DE 10M DE TRANSPORTE (EJ. INTRODUCIR ARIDOS DESDE VEREDA AL INT DE OBRA)",
+    "Precio": "$ 211,27"
+  },
+  {
+    "ID": 150,
+    "Rubro": "TAREAS AUX MOV SUELO",
+    "Descripcion": "RETIRO DE SETOS TELAS ALAMBRADAS POSTES HORMIGON QUE INCLUYEN CAVADO LIMPIEZAETC SIN RETIRO DE MATERIAL X ML",
+    "Precio": "$ 122,59"
+  },
+  {
+    "ID": 151,
+    "Rubro": "TAREAS AUX",
+    "Descripcion": "FLETES TRANSPORTE Y ACARREO MINIMO POR VIAJE (EJ TRAER MAT DESDE PUNTO DE VENTA A LA OBRA: CEMENTO, BOLS ARENA, ETC. )",
+    "Precio": "$ 735,54"
+  },
+  {
+    "ID": 152,
+    "Rubro": "TAREAS AUX",
+    "Descripcion": "LIMP. DE OBRA TRAB. MENORES RETIRO DE ESCOMB ENBOLSADOS HASTA 3 BULTOS - MAYOR CANT. EMPRESA DEDICADA A ESE TRANSPORTE",
+    "Precio": "$ 573,83"
+  },
+  {
+    "ID": 153,
+    "Rubro": "TAREAS AUX",
+    "Descripcion": "TRABAJOS EN ALTURA CUALQUIERA MAS DE 3,7 ALT O NECESITE TRAB C/ ANDAM O ESCAL. LARGAS MINIMO MONTO",
+    "Precio": "$ 1.669,31"
+  },
+  {
+    "ID": 154,
+    "Rubro": "TAREAS AUX",
+    "Descripcion": "COLOC PUERTA GAS O SIMILAR - ENMARCADOS METAL. O MADERA - LIVIANOS - AMURADOS - DE SUPERFICIES MENOR A 1M2",
+    "Precio": "$ 645,85"
+  },
+  {
+    "ID": 155,
+    "Rubro": "TAREAS AUX",
+    "Descripcion": "COLOC PUERTAS - ENMARCADOS METAL / MADERA - LIVIANOS - AMURADOS - DE SUPERFICIES MENOR A 1M2 - COLOC EN ALTURA",
+    "Precio": "$ 738,12"
+  },
+  {
+    "ID": 156,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CERAMICO (PISO) COLOCACION SIN CARPETA X M2 NI EMPASTINADO",
+    "Precio": "$ 295,25"
+  },
+  {
+    "ID": 157,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CERAMICO REVESTIMIENTO X M2 SIN EMPASTINADO",
+    "Precio": "$ 295,25"
+  },
+  {
+    "ID": 158,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "GRANITICO (PISO) COLOCACION SIN CARPETA X M2 NI EMPASTINADO",
+    "Precio": "$ 365,16"
+  },
+  {
+    "ID": 159,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "PORCELANATO (PISO) COLOCACION SIN CARPETA X M2",
+    "Precio": "$ 563,84"
+  },
+  {
+    "ID": 160,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "PORCELANATO GRANDES PIEZAS ( 0,60X0,40 )CADA PIEZA (PISO) COLOCACION SIN CARPETA X M2",
+    "Precio": "$ 610,34"
+  },
+  {
+    "ID": 161,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "GUARDAS SIMPLES UNA PIEZA DE HASTA 15 CM DE ALTO PARA PISO O REVESTIMIENTO X ML",
+    "Precio": "$ 157,54"
+  },
+  {
+    "ID": 162,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "GUARDAS COMPUESTAS MAS DE UNA PIEZA DE HASTA 15 CM DE ALTO PARA PISO O REVESTIMIENTO X ML",
+    "Precio": "$ 275,85"
+  },
+  {
+    "ID": 163,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "ZOCALOS CER�MICOS X ML SIN EMPASTINADO",
+    "Precio": "$ 130,42"
+  },
+  {
+    "ID": 164,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "ZOCALOS PORCELANATO X ML CORTADO EN OBRA",
+    "Precio": "$ 232,92"
+  },
+  {
+    "ID": 165,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "ZOCALOS GRANITICO X ML",
+    "Precio": "$ 198,23"
+  },
+  {
+    "ID": 166,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "EMPASTINADO PISO O REVESTIMIENTO (JUNTA HASTA 2MM), X M2",
+    "Precio": "$ 36,52"
+  },
+  {
+    "ID": 167,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "EMPASTINADO PISO JUNTA ANCHA (10MM HASTA 20MM) X M2",
+    "Precio": "$ 191,24"
+  },
+  {
+    "ID": 168,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "EMPASTINADO ZOCALOS JUNTA ANCHA X ML",
+    "Precio": "$ 18,41"
+  },
+  {
+    "ID": 169,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "EMPASTINADO ZOCALOS JUNTA HASTA 3MM X ML",
+    "Precio": "$ 11,06"
+  },
+  {
+    "ID": 170,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISO SIN MALLA NI RELLENOS X m3",
+    "Precio": "$ 5.513,95"
+  },
+  {
+    "ID": 171,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISO ADICIONADO MALLA SIMA DESDE � 4,2 HASTA MALLA DEL �8 ELECTROSOLDADA X M2",
+    "Precio": "$ 79,71"
+  },
+  {
+    "ID": 172,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISO 7cm DE ESPESOR SIN MALLA NI RELLENOS Y COMPACTACION X m2",
+    "Precio": "$ 385,98"
+  },
+  {
+    "ID": 173,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISO CON MALLA 10 cm DE ESPESOR CON COLOC MALLA SIMA 4,2mm x m2",
+    "Precio": "$ 631,11"
+  },
+  {
+    "ID": 174,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISO 5cm DE ESPESOR SIN MALLA X m2",
+    "Precio": "$ 275,70"
+  },
+  {
+    "ID": 175,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISO ALIVIANADO CON POLIESTIRENO EXPANDIDO O SIMILAR X 1M3 (EN ALTURA AGREGAR 12%)",
+    "Precio": "$ 4.962,56"
+  },
+  {
+    "ID": 176,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISO ALIVIANADO CON POLIESTIRENO EXPANDIDO O SIMILAR 7 cm ESPESOR x m2",
+    "Precio": "$ 347,38"
+  },
+  {
+    "ID": 177,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISO TERMINACION FRATAZADO",
+    "Precio": "$ 79,71"
+  },
+  {
+    "ID": 178,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CONTRAPISOS TERMINACION BORDES DE REFUERZOS TERMINACION FRATAZADO HASTA 10CM ANCHO X ML",
+    "Precio": "$ 146,07"
+  },
+  {
+    "ID": 179,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "ALISADO CEMENTICIO A LLANA MANUAL x m2",
+    "Precio": "$ 122,59"
+  },
+  {
+    "ID": 180,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CARPETA CEMENTICIA SOLADO FRATAZADO Y MANDILADO X m2",
+    "Precio": "$ 183,89"
+  },
+  {
+    "ID": 181,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CARPETA CEMENTICIA X m2",
+    "Precio": "$ 165,42"
+  },
+  {
+    "ID": 182,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "RELLENOS H� SIMPLE BANQUINAS DESNIVELES UMBRALES X CM DE ALTURA X M2",
+    "Precio": "$ 135,63"
+  },
+  {
+    "ID": 183,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "COLOC REVEST LOSAS MARMOLES GRANDES BLOQUES EN BANQUINAS DESNIVELES UMBRALES X M2",
+    "Precio": "$ 834,66"
+  },
+  {
+    "ID": 184,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CERAMICO COLOCACION SIN CARPETA CON DETALLES ESPECIALES X M LINEAL",
+    "Precio": "$ 469,49"
+  },
+  {
+    "ID": 185,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "PISOS VINILICOS EN ROLLO X M2",
+    "Precio": "$ 125,20"
+  },
+  {
+    "ID": 186,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "ZOCALOS MADERA P/ DURLOCK COLOCACION X ML",
+    "Precio": "$ 73,03"
+  },
+  {
+    "ID": 187,
+    "Rubro": "CONTR CARP REVEST PISOS",
+    "Descripcion": "CARPETA CEMENTICIA CON PENDIENTES, BA�OS, GALERIAS ETC. X m2",
+    "Precio": "$ 208,66"
+  },
+  {
+    "ID": 188,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE CUBIERTA CHAPA X M2 ESTRUCT + CHAPAS SIN APRETADA NI CANALETAS",
+    "Precio": "$ 678,16"
+  },
+  {
+    "ID": 189,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE CUBIERTA TEJAS FRANCESA CLAVADA EN ESTRUCTURA DE MADERA X M2",
+    "Precio": "$ 370,38"
+  },
+  {
+    "ID": 190,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE CUBIERTA TEJAS COLONIAL CLAVADA EN ESTRUCTURA DE MADERA X M2",
+    "Precio": "$ 438,20"
+  },
+  {
+    "ID": 191,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE ENTABLONADO MADERA 1/2\" HASTA 1y1/2\" X M2",
+    "Precio": "$ 448,63"
+  },
+  {
+    "ID": 192,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE ESTRUCTURA VIGAS O CABIO MADERA 5\"X3\" HASTA 3 M LUZ X MLINEAL",
+    "Precio": "$ 151,28"
+  },
+  {
+    "ID": 193,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE ESTRUCTURA VIGAS CABIOS MADERA HASTA 7\" HASTA 5 M LUZ X MLINEAL",
+    "Precio": "$ 119,98"
+  },
+  {
+    "ID": 194,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOCACION DE HERRAJES DE APOYO EN VIGAS ESTR MADERA C/U",
+    "Precio": "$ 130,42"
+  },
+  {
+    "ID": 195,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOCACION DE ESTRUCTURA MADERA ALFAJIAS 2\"X3\" PARA TECHO SOBRE VIGAS ESTR MADERA C/U X MLINEAL",
+    "Precio": "$ 79,71"
+  },
+  {
+    "ID": 196,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE CUBIERTA TEJAS FRANCESA CON MEZCLA EN ESTRUCTURA DE HORMIGON X M2",
+    "Precio": "$ 495,58"
+  },
+  {
+    "ID": 197,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE CUBIERTA TEJAS COLONIAL CON MEZCLA EN ESTRUCTURA DE HORMIGON X M2",
+    "Precio": "$ 443,41"
+  },
+  {
+    "ID": 198,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE MEMBRANA ALUMINIZADA EN LOSA (LAMIPLAS X ROLLO 10 M2)",
+    "Precio": "$ 1.356,32"
+  },
+  {
+    "ID": 199,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE MEMBRANA ALUMINIZADA EN CHAPA ACANALADA (LAMIPLAS X ROLLO 10 M2)",
+    "Precio": "$ 1.684,96"
+  },
+  {
+    "ID": 200,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE MEMBRANA ALUMINIZADA BABETAS X ML",
+    "Precio": "$ 182,58"
+  },
+  {
+    "ID": 201,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE AISLANTE TERMICO (LANA DE VID O SIMILAR) INCLUYE ENTRETEJIDO DE ALAMBRE GALV MENOS DE 60M2",
+    "Precio": "$ 159,11"
+  },
+  {
+    "ID": 202,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE AISL TERM (LANA DE VID O SIMILAR) ENTRETEJ DE ALAMB GALV GRANDES SUPERF MAS DE 60M2 Y HASTA 4,5M DE ALT",
+    "Precio": "$ 125,20"
+  },
+  {
+    "ID": 203,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "CIELORRASO DURLOCK CON PERFILERIA 70 MM (MAYOR A 12 M2)",
+    "Precio": "$ 477,70"
+  },
+  {
+    "ID": 204,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "CIELORRASO DURLOCK CON PERFILERIA 35 MM (MAYOR A 12 M2)",
+    "Precio": "$ 377,14"
+  },
+  {
+    "ID": 205,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "CIELORRASO DURLOCK CON PERFILERIA 35 MM (MENOS DE 12 M2)",
+    "Precio": "$ 471,43"
+  },
+  {
+    "ID": 206,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "CIELORRASO DURLOCK (MENOS DE 3 M2) TRABAJO MINIMO/ DETALLES / CAJONES /DESNIVELES",
+    "Precio": "$ 2.021,71"
+  },
+  {
+    "ID": 207,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "CIELORRASO \"CIELOTEX\" HASTA 2,7 M DE ALTURA",
+    "Precio": "$ 188,57"
+  },
+  {
+    "ID": 208,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "CIELORRASO TELGOPOR HASTA 2,7 M DE ALTURA X M2",
+    "Precio": "$ 114,77"
+  },
+  {
+    "ID": 209,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE MEMB ALUM DETALLES ESPECIALES EMBUD BABETAS TRAB MINIMO UNITARIO /M LINEAL O UNIDAD",
+    "Precio": "$ 365,16"
+  },
+  {
+    "ID": 210,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE REJILLAS VENT; GAS; CIELORR ETC 30X15 EL PAR EN ALTURA HASTA 3MTS(INCLUYE EL PASE DE MURO HASTA 0,3M ESPESOR)",
+    "Precio": "$ 318,21"
+  },
+  {
+    "ID": 211,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE REJILLAS VENT; GAS; CIELORR ETC 15X15 EL PAR EN ALTURA HASTA HASTA 3 MT(INCLUYE PASE DE MURO HASTA 0,3M ESPESOR)",
+    "Precio": "$ 260,83"
+  },
+  {
+    "ID": 212,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "COLOC DE MOLDURA TELGOPOR X ML",
+    "Precio": "$ 78,01"
+  },
+  {
+    "ID": 213,
+    "Rubro": "ELEM CONST HORIZ",
+    "Descripcion": "ARREG. EN CIELORR DE YESO AGUJEROS DE DIAMETROS HASTA 70 CM CON AGREG DE METAL DESPLEG, ALFAJ. X UNID.",
+    "Precio": "$ 557,23"
+  },
+  {
+    "ID": 214,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "ESTANTERIAS MELAMINA/MADERA, SOBRE ESTRUCT METAL CON TERMINAC. BORDES EN ANGULOS, FRESADOS ETC. COLOCAC/FIJACION X M2",
+    "Precio": "$ 239,15"
+  },
+  {
+    "ID": 215,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA LATEX INT (CON DETALLES GRIETAS ARREGLOS LIJADO FIJADOR Y LATEX 2 MANOS)",
+    "Precio": "$ 194,31"
+  },
+  {
+    "ID": 216,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA LATEX INT (SUSTRATO EN BUEN ESTADO LIJADO FIJADOR Y LATEX 2 MANOS)",
+    "Precio": "$ 74,73"
+  },
+  {
+    "ID": 217,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA LATEX MUROS INTERIOR ENDUIDO TRABAJOS MENORES",
+    "Precio": "$ 98,65"
+  },
+  {
+    "ID": 218,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "ENDUIDO PLANCHADO",
+    "Precio": "$ 172,03"
+  },
+  {
+    "ID": 219,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA LATEX EXTERIOR DOS MANOS ARREGLOS GRIETAS MEDIANAS A GRANDES SACAR PINT VIEJA (ALT HASTA 5M)",
+    "Precio": "$ 209,26"
+  },
+  {
+    "ID": 220,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA EXTERIOR PARED VIRGEN, SELLADOR FIJADOR Y DOS MANOS LATEX (ALT HASTA 5M)",
+    "Precio": "$ 122,56"
+  },
+  {
+    "ID": 221,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA LATEX DOS MANOS SOLO PINTURA GRAND SUPERF (EDIFICIOS) SIN ARREGLOS NI ENDUIDO EXTERIOR EN ALTURA SUPERIOR A 5M ALTURA X M2",
+    "Precio": "$ 224,20"
+  },
+  {
+    "ID": 222,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA ASFALTICA EXT MUROS HASTA 3M ALTURA X M2",
+    "Precio": "$ 77,72"
+  },
+  {
+    "ID": 223,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA ASFALTICA EXT MUROS EN ALTURA SUPERIOR A 3M Y HASTA 8M X M2",
+    "Precio": "$ 158,44"
+  },
+  {
+    "ID": 224,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINTURA ASFALTICA O EMULSI�N TECHOS LOSA x M2",
+    "Precio": "$ 41,85"
+  },
+  {
+    "ID": 225,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE ALACENAS COCINAS EN MDF O MADERA DE 0,5X0,8 A 0,50 DE ALTURA SOBRE MESADA X ML. SIN COLOC CERAM",
+    "Precio": "$ 1.337,35"
+  },
+  {
+    "ID": 226,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE BAJOMESADAS COCINAS EN MDF O MADERA 0,6X0,85, TRAMOS SIN PILETA COC, NI CONEX DE AGUA GAS ETC, SIN COLOC CERAM",
+    "Precio": "$ 1.114,46"
+  },
+  {
+    "ID": 227,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE ALACENAS COCINAS EN MDF O MADERA DE 0,5X0,8 A 0,50 DE ALTURA SOBRE MESADA CON CONEX CAMPANA, EXTRACT, ETC. ML",
+    "Precio": "$ 507,08"
+  },
+  {
+    "ID": 228,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE BAJOMES COCIN EN MDF O MADERA 0,6X0,85, TRAMOS CON PILETA COCINA, Y CONEX DE AGUA GAS ETC SIN COLOC CERAM",
+    "Precio": "$ 401,20"
+  },
+  {
+    "ID": 229,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE ALACENAS COCINAS EN A� INOX O CHAPA 0,5X0,8 A 0,50 DE ALTURA SOBRE MESADA X ML, SIN COLOC CERAM",
+    "Precio": "$ 195,03"
+  },
+  {
+    "ID": 230,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE BAJOMESADAS COCIN EN A� INOX O CHAPA (0,6X0,85), TRAMOS SIN PILETA COC, NI CONEX DE AGUA GAS ETC. SIN COLOC CERAM",
+    "Precio": "$ 334,34"
+  },
+  {
+    "ID": 231,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE ALACENAS COCINAS EN A� INOX O CHAPA 0,5X0,8 A 0,50 DE ALTURA SOBRE MESADA X ML, SIN COLOC CERAM",
+    "Precio": "$ 1.434,57"
+  },
+  {
+    "ID": 232,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE BAJOMESADAS COCIN EN A� INOX O CHAPA (0,6X0,85), TRAMOS CON PILETA COC, Y CONEX DE AGUA GAS ETC. SIN COLOC CERAM",
+    "Precio": "$ 1.471,08"
+  },
+  {
+    "ID": 233,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT PUERT CHAPA LIJADO ANTIOX O CONVERT Y PINTURA SINTETICO 2 MANOS EN PTA 2X0,80 - 0,90 COMPLETA Y MARCO",
+    "Precio": "$ 1.208,45"
+  },
+  {
+    "ID": 234,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENTANA CHAPA CELOCIA LIJAD ANTIOX O CONVERT Y PINT SINTET 2 MANOS EN VENT 1,2MX1M COMPLETA Y MARCO",
+    "Precio": "$ 685,26"
+  },
+  {
+    "ID": 235,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENTANA CHAPA CELOCIA LIJAD ANTIOX O CONVERT Y PINT SINTET 2 MANOS EN VENT 1,5MX1M COMPLETA Y MARCO",
+    "Precio": "$ 805,62"
+  },
+  {
+    "ID": 236,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENTANA CHAPA CELOCIA LIJAD ANTIOX O CONVERT Y PINT SINTET 2 MANOS EN VENT 2MX1M COMPLETA Y MARCO",
+    "Precio": "$ 1.238,38"
+  },
+  {
+    "ID": 237,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT PUERT MADERA LIJADO Y PINTURA SINTETICO 2 MANOS EN PTA 2X0,80 - 0,90 COMPLETA Y MARCO",
+    "Precio": "$ 1.007,04"
+  },
+  {
+    "ID": 238,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENTANA MADERA CELOCIA LIJAD Y PINT SINTET 2 MANOS EN VENT 1,2MX1M COMPLETA Y MARCO",
+    "Precio": "$ 967,76"
+  },
+  {
+    "ID": 239,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENTANA MADERA CELOCIA LIJAD Y PINT SINTET 2 MANOS EN VENT 1,5MX1M COMPLETA Y MARCO",
+    "Precio": "$ 1.087,43"
+  },
+  {
+    "ID": 240,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENTANA MADERA CELOCIA LIJAD Y PINT SINTET 2 MANOS EN VENT 2MX1M COMPLETA Y MARCO",
+    "Precio": "$ 1.238,32"
+  },
+  {
+    "ID": 241,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT REJA METALICA LIJAD PINT 1 MANO DE ANTIOXIDO O CONVERTIDOR Y ESMALTE SINTET 2 MANOS X M2",
+    "Precio": "$ 741,11"
+  },
+  {
+    "ID": 242,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT REJA METALICA CON REMOVEDOR COLOC DE ANTIOXIDO O CONVERT + PINT SINTET 2 MANOS X M2",
+    "Precio": "$ 534,94"
+  },
+  {
+    "ID": 243,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "REJA METALICA REMOCION COMPLETA PINTURA C/ REMOVEDOR X M2",
+    "Precio": "$ 458,20"
+  },
+  {
+    "ID": 244,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "REJA METALICA LIJADO Y RASPADO CON ESPAULA SI LA PINTURA O EL SUTRATO ESTA EN BUENAS CONDICIONES",
+    "Precio": "$ 362,53"
+  },
+  {
+    "ID": 245,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT REJA METALICA COLOC DE ANTIOXIDO O CONVERT O PINT SINTET X MANO X M2",
+    "Precio": "$ 125,38"
+  },
+  {
+    "ID": 246,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENT CHAPA HOJA VIDR REPARTID LIJAD ANTIOX O CONVERT Y PINT SINTET 2 MANOS EN VENT 1,2MX1M COMPL Y MARCO",
+    "Precio": "$ 482,52"
+  },
+  {
+    "ID": 247,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENT CHAPA HOJA VIDR REPARTID LIJAD ANTIOX O CONVERT Y PINT SINTET 2 MANOS EN VENT 1,5MX1M COMPL Y MARCO",
+    "Precio": "$ 569,71"
+  },
+  {
+    "ID": 248,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VENT CHAPA HOJA VIDR REPARTID LIJAD ANTIOX O CONVERT Y PINT SINTET 2 MANOS EN VENT 2MX1M COMPL Y MARCO",
+    "Precio": "$ 715,04"
+  },
+  {
+    "ID": 249,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "LIJADO CARPINTERIA METALICA X M2",
+    "Precio": "$ 66,87"
+  },
+  {
+    "ID": 250,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "REMOCION COMPLETA DE PINTURA VIEJA CON REMOVEDOR O PROCESO MECANICO CARPINTERIA METALICA REJAS ETC X M2",
+    "Precio": "$ 176,23"
+  },
+  {
+    "ID": 251,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT VIDRIO REPARTIDO X M2 X MANO",
+    "Precio": "$ 72,66"
+  },
+  {
+    "ID": 252,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT X MANO X M2",
+    "Precio": "$ 83,58"
+  },
+  {
+    "ID": 253,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT CELOSIA XM2 XMANO",
+    "Precio": "$ 100,30"
+  },
+  {
+    "ID": 254,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT CARPINT X CANTIDAD X M2 (MAYOR A 4 UNIDADES O SUPERFICIES MAYORES A 18 M2) X MANO",
+    "Precio": "$ 66,87"
+  },
+  {
+    "ID": 255,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT PISOS IMPERMEABILIZANTE ACRILICO X M2 2 MANOS",
+    "Precio": "$ 139,31"
+  },
+  {
+    "ID": 256,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "PINT MEMBRANA LIQUIDA CUBIERTAS IMPERMEABILIZANTE 4 MANOS 40 MICRONES X M2",
+    "Precio": "$ 181,10"
+  },
+  {
+    "ID": 257,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "LAVADO CON ACIDO MUROS LADRILLO VISTO Y PINTURA ACRILICA 3 MANOS X M2 HASTA 2,7M DE ALTURA",
+    "Precio": "$ 302,11"
+  },
+  {
+    "ID": 258,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOCACION DE ADORNOS CUADROS REPISAS ESPEJOS SOPORTES ETC HASTA 0,30X0,30CM DE LADO, PEGADOS O COLGADOS X UNIDAD",
+    "Precio": "$ 58,51"
+  },
+  {
+    "ID": 259,
+    "Rubro": "TERMINAC PINTURA",
+    "Descripcion": "COLOC DE ESPEJOS PEGADOS O COLGADOS EN BA�O, COCINA, LOC COMERCIAL ETC X M2",
+    "Precio": "$ 372,60"
+  },
+  {
+    "ID": 260,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR PUERTA HASTA 2m2 CON MOCHETAS TERMINACION C/RUSTICO FRATAZADO",
+    "Precio": "$ 1.991,80"
+  },
+  {
+    "ID": 261,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR VENTANA CHAPA O MADERA HASTA 2m2 CON MOCHETAS TERMINAC C/RUSTICO FRATAZADO",
+    "Precio": "$ 2.134,07"
+  },
+  {
+    "ID": 262,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR VENTANA ALUMINIOO HASTA 2m2 (SOLO COLOCACION CON TACOS Y ESPUMA O SILICONA SOBRE VANO TERMINADO)",
+    "Precio": "$ 1.659,83"
+  },
+  {
+    "ID": 263,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR PUERTA ALUMINIO HASTA 2M2 (SOLO COLOCACION CON TACOS Y ESPUMA O SILICONA SOBRE VANO TERMINADO)",
+    "Precio": "$ 1.422,71"
+  },
+  {
+    "ID": 264,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR PUERTA EN TABIQUERIA DURLOCK",
+    "Precio": "$ 1.896,95"
+  },
+  {
+    "ID": 265,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR VENTANA HASTA 2m2 EN TABIQURIA DURLOCK",
+    "Precio": "$ 1.517,56"
+  },
+  {
+    "ID": 266,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR PUERTA EN TABIQUERIA DURLOCK CON ESTRUCTURA DE REFUERZO EN CA�O ESTRUCTURAL",
+    "Precio": "$ 2.252,63"
+  },
+  {
+    "ID": 267,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR VENTANA HASTA 2m2 EN TABIQURIA DURLOCK CON REFUERZOS EN CA�O ESRTRUCTURAL",
+    "Precio": "$ 2.134,07"
+  },
+  {
+    "ID": 268,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCACION DE CARPINTERIA LIVIANA TIPO VAIV�N",
+    "Precio": "$ 1.671,69"
+  },
+  {
+    "ID": 269,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOC. PUERTA VID TEMPLADO O SIMILAR ESPESOR 8-10 MM FRENO HIDRAULICO EXTERNO(EN PARTE SUP PUERTA)",
+    "Precio": "$ 3.120,48"
+  },
+  {
+    "ID": 270,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "AJUSTE DE HOJAS SOBRE MARCO COLOCADO PUERTA O VENTANA HASTA 2M2",
+    "Precio": "$ 1.783,13"
+  },
+  {
+    "ID": 271,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "DINTEL PRECIO X ML",
+    "Precio": "$ 780,12"
+  },
+  {
+    "ID": 272,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "ARMADO Y COLOCACION DE ALFEIZAR (TERMINAC SUP DEL ANTEPECHO) H�A� U OTRO MATERIAL GRANIT MARMOL ETC. HASTA 1,2 X 0,3 M",
+    "Precio": "$ 1.404,22"
+  },
+  {
+    "ID": 273,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "RETIRO DE CARPINTERIA PUERTAS VENTANAS HASTA 2M2 CON MARCO",
+    "Precio": "$ 702,11"
+  },
+  {
+    "ID": 274,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "RETIRO DE CARPINTERIA PUERTAS VENTANAS HASTA 7,5 M2 CON MARCO",
+    "Precio": "$ 1.175,75"
+  },
+  {
+    "ID": 275,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "RETIRO DE CARPINTERIA LIVIANA TIPO VAIV�N",
+    "Precio": "$ 529,37"
+  },
+  {
+    "ID": 276,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "RETIRO DE CARPINTERIA PUERTAS VENTANAS TIPO CAJON MARCO METALICO O MADERA HASTA 2M2 X UNIDAD",
+    "Precio": "$ 1.058,73"
+  },
+  {
+    "ID": 277,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "MOCHETAS EN JAMBAS, DINTEL O ALFEIZAR (TERMINAC SUP DEL ANTEPECHO) POR ML EN MATERIAL RUSTICO (VANO P/ CARP ALUMINIO)",
+    "Precio": "$ 388,72"
+  },
+  {
+    "ID": 278,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "COLOCAR VENTANA ALUMINIO HASTA 2m2 EN VANO TERMINADO SOLO COLOC (SIN ARREG EN MOCHET, DINTEL, JAMBA NI ANTEPECHO)",
+    "Precio": "$ 1.047,59"
+  },
+  {
+    "ID": 279,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "ARREGLO DE MARCOS JAMBAS PTAS VENT CHAPA REEMPLAZO HASTA 0,70CM. SOLDADO Y COLOCACION X JAMBA",
+    "Precio": "$ 1.816,23"
+  },
+  {
+    "ID": 280,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "ARREGLO DE JAMBAS PTAS CHAPA REPARACIONES MENORES COLOC DE VISAGRAS SOLDADURAS X HOJA",
+    "Precio": "$ 1.185,59"
+  },
+  {
+    "ID": 281,
+    "Rubro": "CARPINTERIAS",
+    "Descripcion": "ARREGLO DE JAMBAS VENTANAS CHAPA REPARACIONES MENORES COLOC DE VISAGRAS SOLDADURAS X HOJA",
+    "Precio": "$ 1.185,59"
+  },
+  {
+    "ID": 282,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "BOCA ELECTRICA EMBUTIDA HASTA 4ml A MAYOR LONGITUD SE CONSIDERA COMO OTRA BOCA O UN VALOR PROPORCIONAL A LA DISTANCIA",
+    "Precio": "$ 754,74"
+  },
+  {
+    "ID": 283,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "BOCA ELECTRICA EMBUTIDA SOLO CA�ERIA SIN CABLEADO HASTA 4 ML",
+    "Precio": "$ 310,78"
+  },
+  {
+    "ID": 284,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "TABLERO ELECTRICO HASTA 3 LLAVES TERMICAS",
+    "Precio": "$ 2.264,23"
+  },
+  {
+    "ID": 285,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "TOMACORRIENTES, LLAVES, ETC REPOSICION",
+    "Precio": "$ 266,38"
+  },
+  {
+    "ID": 286,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "BOCA ELECTRICA AEREA HASTA 4ml",
+    "Precio": "$ 532,76"
+  },
+  {
+    "ID": 287,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOCACION SOPORTERIA AMURADO LCD Y CONEXI�NADO",
+    "Precio": "$ 1.154,31"
+  },
+  {
+    "ID": 288,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC DERIVADORES VIDEO X UNIDAD",
+    "Precio": "$ 244,18"
+  },
+  {
+    "ID": 289,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC O RECAMBIO LUMINARIAS, DICROICAS FOCOS ETC.",
+    "Precio": "$ 115,43"
+  },
+  {
+    "ID": 290,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC VENT DE TECHO ESTRACTORES ETC",
+    "Precio": "$ 976,73"
+  },
+  {
+    "ID": 291,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC APLIQ. CARTELER INTERN O ELEM SIMILARES DE ILUM LIVIANOS NO INCLUYE I.ELECT X UNID. Y HASTA 2,5 MT DE ALT.",
+    "Precio": "$ 799,14"
+  },
+  {
+    "ID": 292,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOCACION DE CAMPANA EXTRACTORA CON PASE DE MURO O CUBIERTA, MAS TOMA ELECTRICA Y TERMINACIONES",
+    "Precio": "$ 2.047,30"
+  },
+  {
+    "ID": 293,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "TABAJO ELECTRICIDAD MINIMO",
+    "Precio": "$ 532,76"
+  },
+  {
+    "ID": 294,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "ACOMETIDA MONOFASICA COL CAJA MEDIDOR, CA�O 1y1/4 \" CABLEADO HASTA LA PIPETA EXTERIOR CALZADO SIN AMURAR",
+    "Precio": "$ 3.082,54"
+  },
+  {
+    "ID": 295,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "ACOMETIDA MONOFASICA SOLO RECABLEADO HASTA LA PIPETA EXTERIOR, Y CONEXI�N EN TABLERO PPAL",
+    "Precio": "$ 2.047,30"
+  },
+  {
+    "ID": 296,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC DE CAB CANAL O CA�O PVC AEREO + TACOS O GRAMP ATORN HASTA 19X20MM (CCAN) / 25MM O 1\" (CA� PVC) X ML SIN CABL",
+    "Precio": "$ 42,68"
+  },
+  {
+    "ID": 297,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC DE CABLE CANAL AUTOADHESIVO + TACOS Y TORNILLOS PARA REFUERZO FIJACION HASTA 50X30 X ML SIN CABLEADO",
+    "Precio": "$ 71,14"
+  },
+  {
+    "ID": 298,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "PASES DE MUROS 0,15 ESPESOR Y HASTA 12MM DIAMETRO DE BROCA X UNIDAD",
+    "Precio": "$ 28,45"
+  },
+  {
+    "ID": 299,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "PASES DE MUROS 0,30 ESPESOR Y HASTA 12MM DIAMETRO DE BROCA X UNIDAD",
+    "Precio": "$ 52,17"
+  },
+  {
+    "ID": 300,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "PASES DE MUROS 0,15 ESPESOR DESDE15MM HASTA 40 MM DIAMETRO DE BROCA X UNIDAD",
+    "Precio": "$ 71,14"
+  },
+  {
+    "ID": 301,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "PASES DE MUROS 0,30 ESPESOR DESDE15MM HASTA 40 MM DIAMETRO DE BROCA X UNIDAD",
+    "Precio": "$ 104,33"
+  },
+  {
+    "ID": 302,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "PASES DE MUROS 0,15 ESPESOR DESDE40MM HASTA 65 MM DIAMETRO DE BROCA X UNIDAD",
+    "Precio": "$ 94,85"
+  },
+  {
+    "ID": 303,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "PASES DE MUROS 0,30 ESPESOR DESDE40MM HASTA 65 MM DIAMETRO DE BROCA X UNIDAD",
+    "Precio": "$ 118,56"
+  },
+  {
+    "ID": 304,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "PASES DE COLUMNAS O VIGAS 0,15 ESPESOR HASTA 40 MM DIAMETRO DE BROCA X UNIDAD",
+    "Precio": "$ 113,82"
+  },
+  {
+    "ID": 305,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "PASES DE COLUMNAS O VIGAS 0,30 ESPESOR Y HASTA 40 MM DIAMETRO DE BROCA X UNIDAD",
+    "Precio": "$ 237,12"
+  },
+  {
+    "ID": 306,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "EJECUC DE TRAB ESPEC X UNID COLOC DE BOMB DE AGUA, MOTORES ELECT, PURIFICADORES EN PICINAS ETC (HASTA 1HP)",
+    "Precio": "$ 1.233,02"
+  },
+  {
+    "ID": 307,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC DE AIRE ACOND VENTANA HASTA 4000 FRIG Y HASTA 2.7 M DE ALTURA TERMINAC CON RUSTICO FRATAZADO SIN INST ELECT",
+    "Precio": "$ 2.703,15"
+  },
+  {
+    "ID": 308,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC DE AIRE ACOND SPLIT HASTA 4000 FRIG Y HASTA 4 M DE ALTURA SIN INST ELECTR",
+    "Precio": "$ 2.560,88"
+  },
+  {
+    "ID": 309,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "INSTALACION DE PORTERO ELECTRICO FRENTE Y UN AIRICULAR EMBUTIDO SIN CERRADURA ELECTRICA, CABLEADO Y ALIMENTAC S/ TRAFO INDEP",
+    "Precio": "$ 2.183,78"
+  },
+  {
+    "ID": 310,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC DE PORTERO ELECTRICO UN AIRICULAR EMBUTIDO CON CERRADURA ELECTRICA",
+    "Precio": "$ 3.139,19"
+  },
+  {
+    "ID": 311,
+    "Rubro": "ELECTRICIDAD",
+    "Descripcion": "COLOC DE PORTERO ELECTRICO ADICIONAL POR AIRICULAR EMBUTIDO SIN CERRADURA ELECTRICA, VALOR BOCA ELECTRICA O DISTANCIA PASES ETC",
+    "Precio": "$ 846,22"
+  },
+  {
+    "ID": 312,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "BA�O GLOBAL COLOC CA�ERIA X C/U POLIPROPILENO AGUA FRIA O CALIENTE (ROSCA O FUSION)",
+    "Precio": "$ 4.799,28"
+  },
+  {
+    "ID": 313,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "BA�O GLOBAL CA�ERIA BASICO COMPL, PIL DE PATIO, DESCARG INOD, BIDE, LAVAT, BA�ERA, SIEMPRE DENTRO DEL BA�O",
+    "Precio": "$ 4.173,29"
+  },
+  {
+    "ID": 314,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOCAR BIDE+ARMADO DE GRIFERIA+CONEXION FLEXIBLES (2)",
+    "Precio": "$ 1.564,98"
+  },
+  {
+    "ID": 315,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "BIDE ARMADO GRIFERIA",
+    "Precio": "$ 417,33"
+  },
+  {
+    "ID": 316,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOCACION DE FLEXIBLES LAVATORIO BIDE INODORO C/U",
+    "Precio": "$ 130,42"
+  },
+  {
+    "ID": 317,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "INODORO COLOCAR + ARMADO DE MOCHILA + FLEXIBLE (1)",
+    "Precio": "$ 1.460,65"
+  },
+  {
+    "ID": 318,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "INODORO ARMADO MOCHILA",
+    "Precio": "$ 521,66"
+  },
+  {
+    "ID": 319,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "CONSTRUCCION DE C DE INSP 60X60 C/TAPA H� + CAMARA DE MAMPOST REVOC +1 COJINETE DE PASO",
+    "Precio": "$ 4.538,45"
+  },
+  {
+    "ID": 320,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE C DE INSP 60X60 C/TAPA H� + CAMARA DE H� PREMOLDEADO +1 COJINETE DE PASO",
+    "Precio": "$ 2.134,07"
+  },
+  {
+    "ID": 321,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "C DE INSP 60X60 PVC COLOC",
+    "Precio": "$ 1.304,15"
+  },
+  {
+    "ID": 322,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "GRASERA, BOCA DE DESAG ABIER, BOCA DE ACCESO FABRIC \"IN SITU\" EN MAPOST. HORMIG ETC 0,20X0,2 A 0,30 X 0,30 O TAMA� SIMILAR",
+    "Precio": "$ 469,49"
+  },
+  {
+    "ID": 323,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOCACION DE BA�ERA COMUN",
+    "Precio": "$ 4.694,95"
+  },
+  {
+    "ID": 324,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOCACION DE BA�ERA CON HIDRO + INCLUYE INST ELECT PARA BOMBA",
+    "Precio": "$ 7.303,25"
+  },
+  {
+    "ID": 325,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOCACION DE RECEPTACULO 1X1 MTS CON CONEXION A PILETA DE PATIO Y TERMINACIONES",
+    "Precio": "$ 3.182,13"
+  },
+  {
+    "ID": 326,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "LAVATORIO COLOC CON ARMADO DE GRIFER NO INCLUYE CALADO NI CA�ERIA PARA CONEX A PILETA DE PATIO",
+    "Precio": "$ 782,49"
+  },
+  {
+    "ID": 327,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "RETIRO DE CUALQUIER ART SANIT (INOD BIDET LAVAT) EL 50% DEL COSTO DE COLOCAC O TRABAJO MINIMO",
+    "Precio": "$ 469,49"
+  },
+  {
+    "ID": 328,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "INODORO, BIDET COLOCACION SOLO",
+    "Precio": "$ 886,82"
+  },
+  {
+    "ID": 329,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "LAVATORIO COLOCACION SOLA",
+    "Precio": "$ 579,04"
+  },
+  {
+    "ID": 330,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "CALADO Y COLC CA�ERIA PISO BASICO CALZADO S/CONTRAPISO NI REVESTIMIENTO x m LINEAL",
+    "Precio": "$ 271,26"
+  },
+  {
+    "ID": 331,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "CALADO Y COLC CA�ERIA EN MURO CALZADO S/REVOQUE NI REVESTIMIENTO x m LINEAL",
+    "Precio": "$ 365,16"
+  },
+  {
+    "ID": 332,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOCACION DE MESADA COCINA GRANITO HASTA 1,6ML X 0,6M CON CONEX DE DESCARGA Y ARMADO DE GRIFERIA",
+    "Precio": "$ 5.738,27"
+  },
+  {
+    "ID": 333,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE BANITORI, O SIMILAR, (MESADA CON MENS) EN BA�O CON CONEX DE SIFON Y ARM DE GRIFERIA (SIN ROT DE MUROS NI PISOS )",
+    "Precio": "$ 2.869,13"
+  },
+  {
+    "ID": 334,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE MESADA DE APOYO CON MENS O EN BA�O, COCINA, LAVADERO X M2",
+    "Precio": "$ 2.816,97"
+  },
+  {
+    "ID": 335,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE GRIFERIA SOBREMESADA, COCINA, LAVADERO, BANITORI ETC , CONEXI�N DE FLEXIBLES",
+    "Precio": "$ 469,49"
+  },
+  {
+    "ID": 336,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE GRIFERIA EN PARED, COCINA, LAVADERO, BANITORI ETC, SIN ROTURAS DE MURO O COMPLETAR INSTAL SANIT SOLO COLOCAC.",
+    "Precio": "$ 208,66"
+  },
+  {
+    "ID": 337,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "REEMPLAZO O CLOCAC. DE SIFON DOBLE EN BAJO MESADA COC, SIN ROTURAS DE MUROS O PISOS SOLO PASES EN MUEBL BAJO MESAD.",
+    "Precio": "$ 260,83"
+  },
+  {
+    "ID": 338,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "REEMPLAZO O CLOCAC. DE SIFON SIMPLE EN BAJO MESADA COC, BANITORIOS, O LAVAD SOLO PASES EN MUEBLES, BANDEJA, O FONDO",
+    "Precio": "$ 234,75"
+  },
+  {
+    "ID": 339,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE TK PVC DE AGUA EN VIVIEND HASTA 1000LTS SOBRE BASE EXIST, CONEX COMPL DE CA� ACOM Y BAJAD SOLO DEL TK",
+    "Precio": "$ 3.651,63"
+  },
+  {
+    "ID": 340,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE TK PVC DE AGUA EN VIVIEND HASTA 1000LTS ARMAD BASE H�A�+ MURO MAPOST, CONEX COMPL, ACOMET Y BAJAD SOLO DE TK",
+    "Precio": "$ 12.519,86"
+  },
+  {
+    "ID": 341,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE PILETA LAV H�A� + MENSULAS Y DESCARGA .NO INCLUYE CALADO NI COLOC DE CA�ERIAS",
+    "Precio": "$ 1.147,65"
+  },
+  {
+    "ID": 342,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE PIL LAV PLAST LIVIANA+COLOC DE MENSUL + DESCARGA NO INCLUYE CALDO NI COLOC DE CA�ER",
+    "Precio": "$ 625,99"
+  },
+  {
+    "ID": 343,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC PILETA DE PATIO ( ARMADO DE BASICO SUMAR CALADO Y REVESTIMIENTOS )",
+    "Precio": "$ 260,83"
+  },
+  {
+    "ID": 344,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CODOS, CUPLAS, UNION RAPIDA,DOBLE,LLAVE ESFERICA ETC, EN PPP ACCESORIOS EN GRAL EN CA�OS DE � 1/2\",3/4\",1",
+    "Precio": "$ 156,50"
+  },
+  {
+    "ID": 345,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CODOS EN CA�OS DE � 40;50;60 A 90� O 45�",
+    "Precio": "$ 112,16"
+  },
+  {
+    "ID": 346,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CODOS CON BASE P/INODORO ( ARMADO DE BASICO SUMAR CALADO Y REVESTIMIENTOS )",
+    "Precio": "$ 271,26"
+  },
+  {
+    "ID": 347,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS PPP O MANG 1/2\" A 1\" CAV EN TIERRA HASTA 20 CM Y TAPADO SIN COLOC DE PROTECC RIGIDA (LADRILL, H�ETC) x mlin",
+    "Precio": "$ 130,42"
+  },
+  {
+    "ID": 348,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS PPP O MANGUERA 1/2\" A 1\" INSTALACION AEREA FIJACIONES CON GRAMPAS EN MUROS TECHOS ETC.x mlineal",
+    "Precio": "$ 115,97"
+  },
+  {
+    "ID": 349,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS � 100;110 PVC EN TIERRA S/CA�ERO PARA DESCARGA PLUVIAL O SANIT x m. lin",
+    "Precio": "$ 271,26"
+  },
+  {
+    "ID": 350,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS � 100;110 EN TIERRA C/CA�ERO DE HORMIGON PARA DESCARGA PLUVIAL O SANIT x m.lin",
+    "Precio": "$ 319,26"
+  },
+  {
+    "ID": 351,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS � 100;110 PVC HORIZONTAL O BAJADA PLUVIAL, SANIT, VENTILAC, ENGRAMPADA EN MURO x m.lin",
+    "Precio": "$ 187,80"
+  },
+  {
+    "ID": 352,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS � 100; 80;60; EN PASES DE MUROS 0,15 PARA BAJADA PLUV, SANIT ,VENT x Un.PVC O ZINC",
+    "Precio": "$ 234,75"
+  },
+  {
+    "ID": 353,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS � 100; 80;60; EN PASES DE MUROS 0,30 PARA BAJADA PLUV, SANIT ,VENT x Un.PVC O ZINC",
+    "Precio": "$ 427,76"
+  },
+  {
+    "ID": 354,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS � 100; 80;60; EN PASES DE CUBIERT CHAPA PARA BAJADA PLUV, SANIT ,VENT x Un.PVC O ZINC",
+    "Precio": "$ 354,73"
+  },
+  {
+    "ID": 355,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CA�OS � 100; 80;60; EN PASES DE CUBIERT LOSA PARA BAJADA PLUV, SANIT ,VENT x Un.PVC O ZINC",
+    "Precio": "$ 808,57"
+  },
+  {
+    "ID": 356,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CODOS; TEE; BOCA ACCESO C/ TAPA � 100;110 PVC BAJADA PLUVIAL O SANIT x Un.PVC",
+    "Precio": "$ 198,23"
+  },
+  {
+    "ID": 357,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE CODOS; TEE; BOCA ACCESO C/ TAPA � 100;110 PVC HORIZONT PLUVIAL O SANIT x Un.PVC( SUMAR CALADO Y REVEST )",
+    "Precio": "$ 219,10"
+  },
+  {
+    "ID": 358,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE ACCES TOALL. PERCH. JABON.ETC. SUPERSUPERFICIALES C/U (CON TACOS FISHER, Y AUTOADHES, SIN CALAR O ROMPER REVEST)",
+    "Precio": "$ 78,25"
+  },
+  {
+    "ID": 359,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE ACCES TOALL. PERCH. JABON.ETC. EMBUTIDOS C/U",
+    "Precio": "$ 208,66"
+  },
+  {
+    "ID": 360,
+    "Rubro": "SANITARIOS",
+    "Descripcion": "COLOC DE MINGITORIO SIN CA�ERIAS DE DESCARGA PARA ESCURRIMIENTO SOLO FLEXIBLE AGUA FRIA",
+    "Precio": "$ 678,16"
+  }
+]
